@@ -6,7 +6,7 @@ bucket_empty = [3,5]
 bucket_amount = [0,0]
 
 def transfer_water(bucketb, bucketa, dump_excess):
-	#print("Transferring Water")
+	#print("Transferring Water :")
 	if dump_excess != True:
 		# bucketa.amount += bucketb.amount
 		# if bucketa.amount > bucketa.volume:
